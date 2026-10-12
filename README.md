@@ -31,6 +31,30 @@ Análisis de retención con modelo estrella, funciones de ventana, pruebas de ca
 e intervalos de confianza. Muestra por qué comparar «en campaña vs fuera» engaña y cómo un
 grupo de control aleatorio mide el efecto real de cada acción.
 
+### Simuladores metalúrgicos
+
+Implementados desde la literatura y contrastados con datos publicados. Cada modelo fija su
+tolerancia antes de correr y documenta dónde no la cumple.
+
+**[simulador-conminucion](https://github.com/Laxionx/simulador-conminucion)** — *Python · NumPy/SciPy · Streamlit* · **[▶ probar en el navegador](https://simulador-conminucion-mtxoolyzuvvcxrq8rce3el.streamlit.app/)**
+Circuitos de molienda y clasificación (molino de bolas, hidrociclón, chancadora, energía de
+Bond) con reciclos, reconciliación de balances y ajuste con intervalos de confianza.
+Contrastado con los reportes de salida del curso de MODSIM. **168 pruebas.**
+
+**[simulador-procesos](https://github.com/Laxionx/simulador-procesos)** — *Python · PHREEQC · YAML*
+Balance de masa y de calor de plantas de cobre y estaño: lixiviación, SX-EW, flotación, fusión
+flash, conversión, electrorrefinación y fundición de estaño, con datos publicados de Atlantic
+Copper, Mount Isa y Funsur. La planta se describe en YAML y sale un reporte HTML con el costo
+operativo. **517 pruebas.**
+
+**[tratamientos-termicos](https://github.com/Laxionx/tratamientos-termicos)** — *Python · pycalphad · programación lineal*
+Hierro blanco alto cromo de bolas de molienda: desestabilización (CALPHAD), temple de la bola,
+cálculo de carga del horno y revenido, cada uno contra estudios publicados. **117 pruebas.**
+
+**[flotacion-silice](https://github.com/Laxionx/flotacion-silice)** — *Python · scikit-learn*
+Sensor virtual de la sílice del concentrado con datos reales de planta, evaluado en un periodo
+reservado contra la lectura anterior: gana, pero poco, y lo dice.
+
 ### Demos industriales
 
 **[optimizador-carga-eaf](https://github.com/Laxionx/optimizador-carga-eaf)** — *Python · PuLP · Streamlit*
