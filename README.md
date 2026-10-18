@@ -47,9 +47,9 @@ flash, conversión, electrorrefinación y fundición de estaño, con datos publi
 Copper, Mount Isa y Funsur. La planta se describe en YAML y sale un reporte HTML con el costo
 operativo, y una app con los equipos animados según su cálculo. **602 pruebas.**
 
-**[tratamientos-termicos](https://github.com/Laxionx/tratamientos-termicos)** — *Python · pycalphad · programación lineal*
+**[tratamientos-termicos](https://github.com/Laxionx/tratamientos-termicos)** — *Python · pycalphad · programación lineal · Streamlit* · **[▶ probar en el navegador](https://tratamientos-termicos-6wqfzanyzyscgjwaexmopu.streamlit.app/)**
 Hierro blanco alto cromo de bolas de molienda: desestabilización (CALPHAD), temple de la bola,
-cálculo de carga del horno y revenido, cada uno contra estudios publicados. **117 pruebas.**
+cálculo de carga del horno y revenido, cada uno contra estudios publicados, y una app con el temple de la bola animado. **165 pruebas.**
 
 **[flotacion-silice](https://github.com/Laxionx/flotacion-silice)** — *Python · scikit-learn*
 Sensor virtual de la sílice del concentrado con datos reales de planta, evaluado en un periodo
