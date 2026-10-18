@@ -51,6 +51,11 @@ operativo, y una app con los equipos animados según su cálculo. **602 pruebas.
 Hierro blanco alto cromo de bolas de molienda: desestabilización (CALPHAD), temple de la bola,
 cálculo de carga del horno y revenido, cada uno contra estudios publicados, y una app con el temple de la bola animado. **165 pruebas.**
 
+**[laboratorio-ensayos](https://github.com/Laxionx/laboratorio-ensayos)** — *Python · NumPy · Streamlit* · **[▶ probar en el navegador](https://laboratorio-ensayos-bromrnpno3wqjwkdmqcuov.streamlit.app/)**
+Preparación de muestras para ensayo al fuego: error de muestreo de Gy por etapa y nomograma del
+protocolo, y oro grueso con Poisson (cuándo pasar a screen fire assay). Validado contra Minnitt
+(2017), Chieregati (2017) y el USGS (Clifton et al., 1969); documenta una errata de Minnitt (2007). **110 pruebas.**
+
 **[flotacion-silice](https://github.com/Laxionx/flotacion-silice)** — *Python · scikit-learn*
 Sensor virtual de la sílice del concentrado con datos reales de planta, evaluado en un periodo
 reservado contra la lectura anterior: gana, pero poco, y lo dice.
