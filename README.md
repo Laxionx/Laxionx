@@ -49,12 +49,13 @@ operativo, y una app con los equipos animados según su cálculo. **602 pruebas.
 
 **[tratamientos-termicos](https://github.com/Laxionx/tratamientos-termicos)** — *Python · pycalphad · programación lineal · Streamlit* · **[▶ probar en el navegador](https://tratamientos-termicos-6wqfzanyzyscgjwaexmopu.streamlit.app/)**
 Hierro blanco alto cromo de bolas de molienda: desestabilización (CALPHAD), temple de la bola,
-cálculo de carga del horno y revenido, cada uno contra estudios publicados, y una app con el temple de la bola animado. **165 pruebas.**
+cálculo de carga del horno y revenido, cada uno contra estudios publicados, una app con el temple de la bola animado y una validación ampliada con datos nuevos. **242 pruebas.**
 
 **[laboratorio-ensayos](https://github.com/Laxionx/laboratorio-ensayos)** — *Python · NumPy · Streamlit* · **[▶ probar en el navegador](https://laboratorio-ensayos-bromrnpno3wqjwkdmqcuov.streamlit.app/)**
-Ensayo al fuego: error de muestreo de Gy por etapa y nomograma del protocolo, oro grueso con
-Poisson (cuándo pasar a screen fire assay) y carga fundente con el crisol en fusión. Validado contra
-Minnitt (2017), Chieregati (2017), el USGS y Bugbee (1922); documenta una errata de Minnitt (2007). **271 pruebas.**
+Ensayo al fuego y ensayos metalúrgicos: error de muestreo de Gy y nomograma del protocolo, oro grueso
+con Poisson, carga fundente con el crisol en fusión, cinética de cianuración y sedimentación para
+dimensionar espesadores. Validado contra Minnitt, Chieregati, el USGS, Bugbee, Coe y Clevenger y datos
+de Vale; documenta erratas de los artículos fuente. **613 pruebas.**
 
 **[flotacion-silice](https://github.com/Laxionx/flotacion-silice)** — *Python · scikit-learn*
 Sensor virtual de la sílice del concentrado con datos reales de planta, evaluado en un periodo
