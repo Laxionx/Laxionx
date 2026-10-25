@@ -53,9 +53,10 @@ cálculo de carga del horno y revenido, cada uno contra estudios publicados, una
 
 **[laboratorio-ensayos](https://github.com/Laxionx/laboratorio-ensayos)** — *Python · NumPy · Streamlit* · **[▶ probar en el navegador](https://laboratorio-ensayos-bromrnpno3wqjwkdmqcuov.streamlit.app/)**
 Ensayo al fuego y ensayos metalúrgicos: error de muestreo de Gy y nomograma del protocolo, oro grueso
-con Poisson, carga fundente con el crisol en fusión, cinética de cianuración y sedimentación para
-dimensionar espesadores. Validado contra Minnitt, Chieregati, el USGS, Bugbee, Coe y Clevenger y datos
-de Vale; documenta erratas de los artículos fuente. **613 pruebas.**
+con Poisson, carga fundente con el crisol en fusión, copelación con pérdidas de oro y plata y encuarte,
+cinética de cianuración y sedimentación para dimensionar espesadores. Validado contra Minnitt,
+Chieregati, el USGS, Bugbee, Godshall, Coe y Clevenger y datos de Vale; documenta erratas de los
+artículos fuente y las validaciones que no pasan. **731 pruebas.**
 
 **[flotacion-silice](https://github.com/Laxionx/flotacion-silice)** — *Python · scikit-learn*
 Sensor virtual de la sílice del concentrado con datos reales de planta, evaluado en un periodo
