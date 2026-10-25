@@ -9,7 +9,7 @@ TypeScript, pipelines de datos con SQL y PySpark, y pruebas automatizadas en tod
 
 **Databricks Certified Data Engineer Associate** · En curso: Power BI PL-300 (Microsoft Learn), Kaggle Learn (Advanced SQL, Data Cleaning)
 
-📍 Lima, Perú · Disponible para trabajo remoto · Inglés intermedio (lectura técnica fluida) · [LinkedIn](https://linkedin.com/in/anthonyverabaldeon) · anthonyverab@gmail.com
+📍 Lima, Perú · Disponible para trabajo remoto · Inglés avanzado · [LinkedIn](https://linkedin.com/in/anthonyverabaldeon) · anthonyverab@gmail.com
 
 ---
 
