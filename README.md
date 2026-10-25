@@ -38,8 +38,8 @@ tolerancia antes de correr y documenta dónde no la cumple.
 
 **[simulador-conminucion](https://github.com/Laxionx/simulador-conminucion)** — *Python · NumPy/SciPy · Streamlit* · **[▶ probar en el navegador](https://simulador-conminucion-mtxoolyzuvvcxrq8rce3el.streamlit.app/)**
 Circuitos de molienda y clasificación (molino de bolas, hidrociclón, chancadora, energía de
-Bond) con reciclos, reconciliación de balances y ajuste con intervalos de confianza.
-Contrastado con los reportes de salida del curso de MODSIM. **168 pruebas.**
+Bond) con reciclos, reconciliación de balances y ajuste con intervalos de confianza, y un ensayo
+de Bond virtual ciclo a ciclo. Contrastado con los reportes de salida del curso de MODSIM. **387 pruebas.**
 
 **[simulador-procesos](https://github.com/Laxionx/simulador-procesos)** — *Python · PHREEQC · YAML · Streamlit* · **[▶ probar en el navegador](https://simulador-procesos-ntfmuyhlnqc9d73kkqljzk.streamlit.app/)**
 Balance de masa y de calor de plantas de cobre y estaño: lixiviación, SX-EW, flotación, fusión
