@@ -39,17 +39,17 @@ tolerancia antes de correr y documenta dónde no la cumple.
 **[simulador-conminucion](https://github.com/Laxionx/simulador-conminucion)** — *Python · NumPy/SciPy · Streamlit* · **[▶ probar en el navegador](https://simulador-conminucion-mtxoolyzuvvcxrq8rce3el.streamlit.app/)**
 Circuitos de molienda y clasificación (molino de bolas, hidrociclón, chancadora, energía de
 Bond) con reciclos, reconciliación de balances y ajuste con intervalos de confianza, y un ensayo
-de Bond virtual ciclo a ciclo. Contrastado con los reportes de salida del curso de MODSIM. **387 pruebas.**
+de Bond virtual ciclo a ciclo. Contrastado con los reportes de salida del curso de MODSIM. **689 pruebas.**
 
 **[simulador-procesos](https://github.com/Laxionx/simulador-procesos)** — *Python · PHREEQC · YAML · Streamlit* · **[▶ probar en el navegador](https://simulador-procesos-ntfmuyhlnqc9d73kkqljzk.streamlit.app/)**
 Balance de masa y de calor de plantas de cobre y estaño: lixiviación, SX-EW, flotación, fusión
 flash, conversión, electrorrefinación y fundición de estaño, con datos publicados de Atlantic
 Copper, Mount Isa y Funsur. La planta se describe en YAML y sale un reporte HTML con el costo
-operativo, y una app con los equipos animados según su cálculo. **671 pruebas.**
+operativo, y una app con los equipos animados según su cálculo. **731 pruebas.**
 
 **[tratamientos-termicos](https://github.com/Laxionx/tratamientos-termicos)** — *Python · pycalphad · programación lineal · Streamlit* · **[▶ probar en el navegador](https://tratamientos-termicos-6wqfzanyzyscgjwaexmopu.streamlit.app/)**
 Hierro blanco alto cromo de bolas de molienda: desestabilización (CALPHAD), temple de la bola,
-cálculo de carga del horno y revenido, cada uno contra estudios publicados, una app con el temple de la bola animado y una validación ampliada con datos nuevos. **242 pruebas.**
+cálculo de carga del horno y revenido, cada uno contra estudios publicados, una app con el temple de la bola animado y una validación ampliada con datos nuevos. **261 pruebas.**
 
 **[laboratorio-ensayos](https://github.com/Laxionx/laboratorio-ensayos)** — *Python · NumPy · Streamlit* · **[▶ probar en el navegador](https://laboratorio-ensayos-bromrnpno3wqjwkdmqcuov.streamlit.app/)**
 Ensayo al fuego y ensayos metalúrgicos: error de muestreo de Gy y nomograma del protocolo, oro grueso
@@ -57,7 +57,7 @@ con Poisson, carga fundente con el crisol en fusión, copelación con pérdidas 
 cinética de cianuración, sedimentación para dimensionar espesadores y control de calidad (carta de
 control de CRM, duplicados de Thompson-Howarth, blancos). Validado contra Minnitt, Chieregati, el USGS,
 Bugbee, Godshall, Coe y Clevenger, datos de Vale, certificados OREAS y CDN e informes NI 43-101;
-documenta erratas de los artículos fuente y las validaciones que no pasan. **895 pruebas.**
+documenta erratas de los artículos fuente y las validaciones que no pasan. **1050 pruebas.**
 
 **[flotacion-silice](https://github.com/Laxionx/flotacion-silice)** — *Python · scikit-learn*
 Sensor virtual de la sílice del concentrado con datos reales de planta, evaluado en un periodo
