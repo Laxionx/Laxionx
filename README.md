@@ -57,7 +57,7 @@ con Poisson, carga fundente con el crisol en fusión, copelación con pérdidas 
 cinética de cianuración, sedimentación para dimensionar espesadores y control de calidad (carta de
 control de CRM, duplicados de Thompson-Howarth, blancos). Validado contra Minnitt, Chieregati, el USGS,
 Bugbee, Godshall, Coe y Clevenger, datos de Vale, certificados OREAS y CDN e informes NI 43-101;
-documenta erratas de los artículos fuente y las validaciones que no pasan. **1050 pruebas.**
+documenta erratas de los artículos fuente y las validaciones que no pasan. **1054 pruebas.**
 
 **[flotacion-silice](https://github.com/Laxionx/flotacion-silice)** — *Python · scikit-learn*
 Sensor virtual de la sílice del concentrado con datos reales de planta, evaluado en un periodo
