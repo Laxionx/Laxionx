@@ -45,7 +45,7 @@ de Bond virtual ciclo a ciclo. Contrastado con los reportes de salida del curso 
 Balance de masa y de calor de plantas de cobre y estaño: lixiviación, SX-EW, flotación, fusión
 flash, conversión, electrorrefinación y fundición de estaño, con datos publicados de Atlantic
 Copper, Mount Isa y Funsur. La planta se describe en YAML y sale un reporte HTML con el costo
-operativo, y una app con los equipos animados según su cálculo. **731 pruebas.**
+operativo, y una app con los equipos animados según su cálculo. **739 pruebas.**
 
 **[tratamientos-termicos](https://github.com/Laxionx/tratamientos-termicos)** — *Python · pycalphad · programación lineal · Streamlit* · **[▶ probar en el navegador](https://tratamientos-termicos-6wqfzanyzyscgjwaexmopu.streamlit.app/)**
 Hierro blanco alto cromo de bolas de molienda: desestabilización (CALPHAD), temple de la bola,
